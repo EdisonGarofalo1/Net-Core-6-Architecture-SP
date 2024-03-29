@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CARRITO.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61fc0852d717371fe24a256f02522e587bf740b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CARRITO.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CARRITO.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

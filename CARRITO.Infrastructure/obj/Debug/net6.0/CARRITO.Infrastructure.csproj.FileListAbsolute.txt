@@ -10,3 +10,7 @@ C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfu
 C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Infrastructure\obj\Debug\net6.0\refint\CARRITO.Infrastructure.dll
 C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Infrastructure\obj\Debug\net6.0\CARRITO.Infrastructure.pdb
 C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Infrastructure\obj\Debug\net6.0\ref\CARRITO.Infrastructure.dll
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Infrastructure\bin\Debug\net6.0\CARRITO.Domain.dll
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Infrastructure\bin\Debug\net6.0\CARRITO.Domain.pdb
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Infrastructure\obj\Debug\net6.0\CARRITO.Infrastructure.sourcelink.json
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Infrastructure\obj\Debug\net6.0\CARRITO..03DA5B8B.Up2Date

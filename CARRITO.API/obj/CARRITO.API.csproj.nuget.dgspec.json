@@ -55,6 +55,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
@@ -107,6 +111,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "C:\\Users\\Kirisaki\\Documents\\Visual Studio 2022\\Codigo\\CleanarchitectureApiRESTfull\\CARRITO.Domain\\CARRITO.Domain.csproj": {
+                "projectPath": "C:\\Users\\Kirisaki\\Documents\\Visual Studio 2022\\Codigo\\CleanarchitectureApiRESTfull\\CARRITO.Domain\\CARRITO.Domain.csproj"
+              },
               "C:\\Users\\Kirisaki\\Documents\\Visual Studio 2022\\Codigo\\CleanarchitectureApiRESTfull\\CARRITO.Infrastructure\\CARRITO.Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\Kirisaki\\Documents\\Visual Studio 2022\\Codigo\\CleanarchitectureApiRESTfull\\CARRITO.Infrastructure\\CARRITO.Infrastructure.csproj"
               }
@@ -230,7 +237,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Kirisaki\\Documents\\Visual Studio 2022\\Codigo\\CleanarchitectureApiRESTfull\\CARRITO.Domain\\CARRITO.Domain.csproj": {
+                "projectPath": "C:\\Users\\Kirisaki\\Documents\\Visual Studio 2022\\Codigo\\CleanarchitectureApiRESTfull\\CARRITO.Domain\\CARRITO.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

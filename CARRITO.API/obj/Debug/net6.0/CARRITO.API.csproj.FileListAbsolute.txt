@@ -43,3 +43,6 @@ C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfu
 C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.API\obj\Debug\net6.0\CARRITO.API.pdb
 C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.API\obj\Debug\net6.0\CARRITO.API.genruntimeconfig.cache
 C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.API\obj\Debug\net6.0\ref\CARRITO.API.dll
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.API\obj\Debug\net6.0\CARRITO.API.sourcelink.json
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll

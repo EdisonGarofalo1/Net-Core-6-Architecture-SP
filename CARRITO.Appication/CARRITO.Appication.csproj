@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CARRITO.Domain\CARRITO.Domain.csproj" />
     <ProjectReference Include="..\CARRITO.Infrastructure\CARRITO.Infrastructure.csproj" />
   </ItemGroup>
 

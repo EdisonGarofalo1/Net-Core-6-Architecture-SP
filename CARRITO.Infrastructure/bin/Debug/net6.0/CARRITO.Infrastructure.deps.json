@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "CARRITO.Infrastructure/1.0.0": {
         "dependencies": {
+          "CARRITO.Domain": "1.0.0",
           "Dapper": "2.1.35",
           "Microsoft.Extensions.Configuration": "6.0.0",
           "System.Data.SqlClient": "4.8.6"
@@ -133,7 +134,12 @@
           "System.Security.Principal.Windows": "4.7.0"
         }
       },
-      "System.Security.Principal.Windows/4.7.0": {}
+      "System.Security.Principal.Windows/4.7.0": {},
+      "CARRITO.Domain/1.0.0": {
+        "runtime": {
+          "CARRITO.Domain.dll": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -239,6 +245,11 @@
       "sha512": "sha512-ojD0PX0XhneCsUbAZVKdb7h/70vyYMDYs85lwEI+LngEONe/17A0cFaRFqZU+sOEidcVswYWikYOQ9PPfjlbtQ==",
       "path": "system.security.principal.windows/4.7.0",
       "hashPath": "system.security.principal.windows.4.7.0.nupkg.sha512"
+    },
+    "CARRITO.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

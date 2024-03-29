@@ -13,3 +13,6 @@ C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfu
 C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Appication\obj\Debug\net6.0\refint\CARRITO.Appication.dll
 C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Appication\obj\Debug\net6.0\CARRITO.Appication.pdb
 C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Appication\obj\Debug\net6.0\ref\CARRITO.Appication.dll
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Appication\bin\Debug\net6.0\CARRITO.Domain.dll
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Appication\bin\Debug\net6.0\CARRITO.Domain.pdb
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Appication\obj\Debug\net6.0\CARRITO.Appication.sourcelink.json

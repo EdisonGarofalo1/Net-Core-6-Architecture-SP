@@ -227,6 +227,16 @@
             "rid": "win"
           }
         }
+      },
+      "CARRITO.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CARRITO.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CARRITO.Domain.dll": {}
+        }
       }
     }
   },
@@ -652,10 +662,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "CARRITO.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CARRITO.Domain/CARRITO.Domain.csproj",
+      "msbuildProject": "../CARRITO.Domain/CARRITO.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "CARRITO.Domain >= 1.0.0",
       "Dapper >= 2.1.35",
       "Microsoft.Extensions.Configuration >= 6.0.0",
       "System.Data.SqlClient >= 4.8.6"
@@ -687,7 +703,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Kirisaki\\Documents\\Visual Studio 2022\\Codigo\\CleanarchitectureApiRESTfull\\CARRITO.Domain\\CARRITO.Domain.csproj": {
+              "projectPath": "C:\\Users\\Kirisaki\\Documents\\Visual Studio 2022\\Codigo\\CleanarchitectureApiRESTfull\\CARRITO.Domain\\CARRITO.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
