@@ -1,0 +1,15 @@
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Appication\bin\Debug\net6.0\CARRITO.Appication.deps.json
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Appication\bin\Debug\net6.0\CARRITO.Appication.dll
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Appication\bin\Debug\net6.0\CARRITO.Appication.pdb
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Appication\bin\Debug\net6.0\CARRITO.Infrastructure.dll
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Appication\bin\Debug\net6.0\CARRITO.Infrastructure.pdb
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Appication\obj\Debug\net6.0\CARRITO.Appication.csproj.AssemblyReference.cache
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Appication\obj\Debug\net6.0\CARRITO.Appication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Appication\obj\Debug\net6.0\CARRITO.Appication.AssemblyInfoInputs.cache
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Appication\obj\Debug\net6.0\CARRITO.Appication.AssemblyInfo.cs
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Appication\obj\Debug\net6.0\CARRITO.Appication.csproj.CoreCompileInputs.cache
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Appication\obj\Debug\net6.0\CARRITO..899790BE.Up2Date
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Appication\obj\Debug\net6.0\CARRITO.Appication.dll
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Appication\obj\Debug\net6.0\refint\CARRITO.Appication.dll
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Appication\obj\Debug\net6.0\CARRITO.Appication.pdb
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Appication\obj\Debug\net6.0\ref\CARRITO.Appication.dll

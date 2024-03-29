@@ -1,0 +1,11 @@
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Domain\bin\Debug\net6.0\CARRITO.Domain.deps.json
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Domain\bin\Debug\net6.0\CARRITO.Domain.dll
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Domain\bin\Debug\net6.0\CARRITO.Domain.pdb
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Domain\obj\Debug\net6.0\CARRITO.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Domain\obj\Debug\net6.0\CARRITO.Domain.AssemblyInfoInputs.cache
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Domain\obj\Debug\net6.0\CARRITO.Domain.AssemblyInfo.cs
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Domain\obj\Debug\net6.0\CARRITO.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Domain\obj\Debug\net6.0\CARRITO.Domain.dll
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Domain\obj\Debug\net6.0\refint\CARRITO.Domain.dll
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Domain\obj\Debug\net6.0\CARRITO.Domain.pdb
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Domain\obj\Debug\net6.0\ref\CARRITO.Domain.dll

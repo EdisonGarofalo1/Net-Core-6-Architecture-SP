@@ -1,0 +1,12 @@
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Infrastructure\bin\Debug\net6.0\CARRITO.Infrastructure.deps.json
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Infrastructure\bin\Debug\net6.0\CARRITO.Infrastructure.dll
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Infrastructure\bin\Debug\net6.0\CARRITO.Infrastructure.pdb
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Infrastructure\obj\Debug\net6.0\CARRITO.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Infrastructure\obj\Debug\net6.0\CARRITO.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Infrastructure\obj\Debug\net6.0\CARRITO.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Infrastructure\obj\Debug\net6.0\CARRITO.Infrastructure.AssemblyInfo.cs
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Infrastructure\obj\Debug\net6.0\CARRITO.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Infrastructure\obj\Debug\net6.0\CARRITO.Infrastructure.dll
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Infrastructure\obj\Debug\net6.0\refint\CARRITO.Infrastructure.dll
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Infrastructure\obj\Debug\net6.0\CARRITO.Infrastructure.pdb
+C:\Users\Kirisaki\Documents\Visual Studio 2022\Codigo\CleanarchitectureApiRESTfull\CARRITO.Infrastructure\obj\Debug\net6.0\ref\CARRITO.Infrastructure.dll
